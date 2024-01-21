@@ -1,0 +1,2 @@
+run:
+	rustlings watch
